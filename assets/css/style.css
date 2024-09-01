@@ -1,5 +1,7 @@
 .hero {
-    background: url('assets/images/hero-image.jpg') no-repeat center center;
+    background-image: url('../images/hero-image.jpg');
+    background-repeat: no-repeat;
+    background-position: center center;
     background-size: cover;
     color: white;
     padding: 80px 0;
